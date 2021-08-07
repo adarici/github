@@ -5,6 +5,6 @@ public class MyFourthClass {
         System.out.println(sum);
         int y = 100;
 
-        System.out.println("Ahmeds code");
+        System.out.println("Ahmets code");
     }
 }
