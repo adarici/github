@@ -6,5 +6,7 @@ public class class03 {
         int sum = x+2;
         System.out.println(sum);
         int y = 0;
+        String str = "Java";
+        System.out.println(str);
     }
 }
