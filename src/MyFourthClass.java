@@ -4,5 +4,7 @@ public class MyFourthClass {
         int sum = x+20;
         System.out.println(sum);
         int y = 100;
+
+        System.out.println("Ahmeds code");
     }
 }
