@@ -6,5 +6,6 @@ public class class03 {
         int sum = x+2;
         System.out.println(sum);
         int y = 0;
+        int z =10;
     }
 }
